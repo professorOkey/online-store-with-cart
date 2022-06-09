@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/css/products.css" />
+    <link rel="stylesheet" href="/css/cart.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header class="header container">
+      <div class="header__links">
+        <div class="link__item"><a href="index.html">Home</a></div>
+        <div class="link__item"><a href="products.html">Products</a></div>
+        <div class="link__item"><a href="">About</a></div>
+      </div>
+      <div class="header__logo"><span class="logo__item">Comfy</span></div>
+      <div class="header__cart">
+        <img src="/img/Cart-01.svg" alt="" /><span class="cart__counter"
+          ><p class="cart__counter-value">0</p></span
+        >
+      </div>
+    </header>
+    <section class="current__link">
+      <div class="link container">
+        <p><b>Home/Products</b></p>
+      </div>
+    </section>
+    <section class="products container">
+      <nav class="products__nav">
+        <div class="nav__search">
+          <input
+            type="search"
+            class="search__input"
+            placeholder="search..."
+          /><button type="submit" class="search__button"></button>
+        </div>
+        <div class="nav__company">
+          <span class="company__title"><b>Company</b></span>
+          <ul class="company__list">
+            <li class="list__item"><span>ALL</span></li>
+            <li class="list__item"><span>Ikea</span></li>
+            <li class="list__item"><span>Marcos</span></li>
+            <li class="list__item"><span>Caressa</span></li>
+            <li class="list__item"><span>Liddy</span></li>
+          </ul>
+        </div>
+        <span class="company__price"><b>Price</b></span>
+        <div class="price__form">
+          <label class="input__label">from</label>
+          <input type="number" class="input__from" min="0" />
+          <label class="input__label">to</label>
+          <input type="number" class="input__to" min="0" />
+        </div>
+        <button class="price__submit">Search</button>
+      </nav>
+      <div class="products__catalog"></div>
+    </section>
+    <script type="module" src="/js/app.js"></script>
+    <script type="module" src="/js/ProductsSeachForm.js"></script>
+  </body>
+</html>
