@@ -6,7 +6,7 @@
     "name": "IKEA product1",
     "description": "IKEA description1",
     "cost": "9.99",
-    "img": "/img/inerior.jpg",
+    "img": "./img/inerior.jpg",
     "amount": 1
   },
   {
@@ -16,7 +16,7 @@
     "name": "IKEA product2",
     "description": "IKEA description2",
     "cost": "19.99",
-    "img": "/img/inerior.jpg",
+    "img": "./img/inerior.jpg",
     "amount": 1
   },
   {
@@ -26,7 +26,7 @@
     "name": "IKEA product3",
     "description": "IKEA description3",
     "cost": "29.99",
-    "img": "/img/inerior.jpg",
+    "img": "./img/inerior.jpg",
     "amount": 1
   },
   {
@@ -36,7 +36,7 @@
     "name": "IKEA product4",
     "description": "IKEA description4",
     "cost": "39.99",
-    "img": "/img/inerior.jpg",
+    "img": "./img/inerior.jpg",
     "amount": 1
   },
   {
@@ -46,7 +46,7 @@
     "name": "Marcos product1",
     "description": "Marcos description1",
     "cost": "49.99",
-    "img": "/img/Marcos__Interior.jpg",
+    "img": "./img/Marcos__Interior.jpg",
     "amount": 1
   },
   {
@@ -56,7 +56,7 @@
     "name": "Marcos product2",
     "description": "Marcos description2",
     "cost": "69.99",
-    "img": "/img/Marcos__Interior.jpg",
+    "img": "./img/Marcos__Interior.jpg",
     "amount": 1
   },
   {
@@ -66,7 +66,7 @@
     "name": "Marcos product3",
     "description": "Marcos description3",
     "cost": "29.99",
-    "img": "/img/Marcos__Interior.jpg",
+    "img": "./img/Marcos__Interior.jpg",
     "amount": 1
   },
   {
@@ -76,7 +76,7 @@
     "name": "Marcos product4",
     "description": "Marcos description4",
     "cost": "19.99",
-    "img": "/img/Marcos__Interior.jpg",
+    "img": "./img/Marcos__Interior.jpg",
     "amount": 1
   },
   {
@@ -86,7 +86,7 @@
     "name": "Caressa product1",
     "description": "Caressa desription1",
     "cost": "59.99",
-    "img": "/img/Caressa__Interior.jpg",
+    "img": "./img/Caressa__Interior.jpg",
     "amount": 1
   },
   {
@@ -96,7 +96,7 @@
     "name": "Caressa product2",
     "description": "Caressa desription2",
     "cost": "49.99",
-    "img": "/img/Caressa__Interior.jpg",
+    "img": "./img/Caressa__Interior.jpg",
     "amount": 1
   },
   {
@@ -106,7 +106,7 @@
     "name": "Caressa product3",
     "description": "Caressa desription3",
     "cost": "39.99",
-    "img": "/img/Caressa__Interior.jpg",
+    "img": "./img/Caressa__Interior.jpg",
     "amount": 1
   },
   {
@@ -116,7 +116,7 @@
     "name": "Caressa product4",
     "description": "Caressa desription4",
     "cost": "29.99",
-    "img": "/img/Caressa__Interior.jpg",
+    "img": "./img/Caressa__Interior.jpg",
     "amount": 1
   },
   {
@@ -126,7 +126,7 @@
     "name": "Liddy product1",
     "description": "Liddy description1",
     "cost": "49.99",
-    "img": "/img/Liddy__Interior.jpg",
+    "img": "./img/Liddy__Interior.jpg",
     "amount": 1
   },
   {
@@ -136,7 +136,7 @@
     "name": "Liddy product2",
     "description": "Liddy description2",
     "cost": "39.99",
-    "img": "/img/Liddy__Interior.jpg",
+    "img": "./img/Liddy__Interior.jpg",
     "amount": 1
   },
   {
@@ -146,7 +146,7 @@
     "name": "Liddy product3",
     "description": "Liddy description3",
     "cost": "29.99",
-    "img": "/img/Liddy__Interior.jpg",
+    "img": "./img/Liddy__Interior.jpg",
     "amount": 1
   },
   {
@@ -156,7 +156,7 @@
     "name": "Liddy product4",
     "description": "Liddy description4",
     "cost": "19.99",
-    "img": "/img/Liddy__Interior.jpg",
+    "img": "./img/Liddy__Interior.jpg",
     "amount": 1
   }
 ]
