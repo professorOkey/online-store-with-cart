@@ -6,7 +6,7 @@
     "name": "IKEA product1",
     "description": "IKEA description1",
     "cost": "9.99",
-    "img": "./img/inerior.jpg",
+    "img": "./img/interior.jpg",
     "amount": 1
   },
   {
@@ -16,7 +16,7 @@
     "name": "IKEA product2",
     "description": "IKEA description2",
     "cost": "19.99",
-    "img": "./img/inerior.jpg",
+    "img": "./img/interior.jpg",
     "amount": 1
   },
   {
@@ -26,7 +26,7 @@
     "name": "IKEA product3",
     "description": "IKEA description3",
     "cost": "29.99",
-    "img": "./img/inerior.jpg",
+    "img": "./img/interior.jpg",
     "amount": 1
   },
   {
@@ -36,7 +36,7 @@
     "name": "IKEA product4",
     "description": "IKEA description4",
     "cost": "39.99",
-    "img": "./img/inerior.jpg",
+    "img": "./img/interior.jpg",
     "amount": 1
   },
   {
